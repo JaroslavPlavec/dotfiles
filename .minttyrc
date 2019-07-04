@@ -1,0 +1,9 @@
+Term=xterm-256color
+FontHeight=11
+CursorType=block
+BackgroundColour=238,238,238
+ForegroundColour=94,94,94
+CursorColour=255,128,255
+Transparency=off
+Font=Lucida Console
+Columns=90
